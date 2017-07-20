@@ -25,7 +25,7 @@ SECRET_KEY = '6q6h%q$#9orugd^pxr1j!kuh=7gp1x1an8gie_o(r5s^(-bek+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['try-django-haessal.c9users.io']
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 
